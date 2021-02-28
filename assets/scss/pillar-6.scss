@@ -21,7 +21,7 @@ $theme-bg-dark: $theme-text-color-primary;
 // Create variables to override the default value for variables used in the Bootstrap SCSS files.
 $theme-colors: (
   "primary": $theme-color-primary,
-  "secondary": $theme-text-color-secondary
+  "secondary": $theme-text-color-secondary,
 );
 
 //Import Bootstrap
@@ -164,6 +164,16 @@ a.theme-btn-on-bg,
 
 .resume-progress {
   height: 0.6rem;
+}
+
+.company-projects {
+  padding-left: 20px;
+}
+
+.resume-company-name-2 {
+  color: #58677c;
+  font-size: 0.875rem;
+  font-weight: 500;
 }
 
 .resume-company-name {
