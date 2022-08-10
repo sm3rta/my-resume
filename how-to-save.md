@@ -1,0 +1,5 @@
+- publish github page
+- install pdf mage chrome extension
+- zoom out to 90% to fit the resume in one page
+- save using pdf mage
+- use https://www.ilovepdf.com/remove-pages to remove empty pages if any
